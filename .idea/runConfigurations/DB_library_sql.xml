@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="DB_library.sql" type="DatabaseScript" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/DB_library.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="a366cd3b-f9c6-4809-bbb9-78bf30dcc8b9" namespace="schema/&quot;stepik&quot;" />
+    <method v="2" />
+  </configuration>
+</component>
